@@ -1,1 +1,1 @@
-Test
+ProSeCo Planning is a probabilistic, semantic, and cooperative planning library that enables implicit cooperative decision making for automated vehicles in heterogeneous environments. At its core a Monte Carlo Tree Search (MCTS) is used to find optimal trajectories in challenging multi-agent driving scenarios. Through various extensions the base MCTS is improved generating stronger solutions in a shorter amount of time.
