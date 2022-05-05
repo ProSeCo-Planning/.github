@@ -1,6 +1,8 @@
 ## Abstract
 ProSeCo Planning is a probabilistic, semantic, and cooperative planning library that enables implicit cooperative decision-making for automated vehicles in heterogeneous environments. At its core, a Monte Carlo Tree Search (MCTS) is used to find optimal trajectories in challenging multi-agent driving scenarios. The base MCTS is improved through various extensions, generating stronger solutions in a shorter time.
 
+## Setup
+ProSeCo Planning is system independent due to Docker. To get started with the project, follow the instructions of the [proseco_workspace](https://github.com/ProSeCo-Planning/proseco_workspace).
 ## Citation
 Please refer to the respective publication if you are using it for your work. Thank you very much 🙂!
 ```bibtex
