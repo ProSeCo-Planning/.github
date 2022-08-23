@@ -6,13 +6,14 @@ ProSeCo Planning is system independent due to Docker. To get started with the pr
 ## Citation
 Please refer to the respective publication if you are using it for your work. Thank you very much 🙂!
 ```bibtex
-@misc{Kurzer2022,
+@inproceedings{Kurzer2022,
 	title        = {Learning Reward Models for Cooperative Trajectory Planning with Inverse Reinforcement Learning and Monte Carlo Tree Search},
 	author       = {Kurzer, Karl and Bitzer, Matthias and Zöllner, J. Marius},
 	year         = 2022,
-	publisher    = {arXiv},
-	doi          = {10.48550/ARXIV.2202.06443},
-	url          = {https://arxiv.org/abs/2202.06443}
+	booktitle    = {2022 IEEE Intelligent Vehicles Symposium (IV)},
+	pages        = {22--28},
+	doi          = {10.1109/IV51971.2022.9827031},
+	url          = {https://doi.org/10.1109/IV51971.2022.9827031}
 }
 @inproceedings{Kurzer2020b,
 	title        = {Accelerating Cooperative Planning for Automated Vehicles with Learned Heuristics and Monte Carlo Tree Search},
