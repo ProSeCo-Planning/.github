@@ -4,8 +4,13 @@ The ProSeCo Planning framework, short for Probabilistic Semantic Cooperative Pla
 The framework employs Monte Carlo Tree Search (MCTS) in conjunction with Decoupled Upper Confidence bounds applied to Trees (DUCT) to identify near-optimal trajectories for all traffic participants. This results in a trajectory planner that enables implicit cooperation among traffic participants. The base algorithm has been further improved through parallelization and hyperparameter optimization to enhance performance and generate better solutions faster. It also incorporates learned reward models based on expert trajectories using Inverse Reinforcement Learning (IRL). This allows the system to adapt to a desired human driving style for smooth integration into human-centered traffic. The effectiveness of the framework has been demonstrated in 15 challenging multi-agent scenarios.
 
 The source code of the ProSeCo Planning package is openly accessible on GitHub under the BSD 3-Clause License, and the runtime environment required to execute the package is available as a container on DockerHub. The research leading to this work was funded by the German Research Foundation (DFG) through the Cooperatively Interacting Automobiles (CoInCar) project.
+
+## Documentation
+The associated thesis can be found [here](https://publikationen.bibliothek.kit.edu/1000164561).
+
 ## Setup
 ProSeCo Planning is system independent due to Docker. To get started with the project, follow the instructions of the [proseco_workspace](https://github.com/ProSeCo-Planning/proseco_workspace).
+
 ## Citation
 Please refer to the respective publication if you are using it for your work. Thank you very much 🙂!
 ```bibtex
