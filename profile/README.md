@@ -18,7 +18,8 @@ Please refer to the respective publication if you are using it for your work. Th
     keywords     = {Artificial Intelligence, AI, Machine Learning, ML, Automated Vehicles, AVs, Autonomous Driving, AD, Automated Driving, AD, Cooperation, Multi-agent Markov Decision Process, MMDP, Search, Planning, Decision Making, Trajectory Planning, Monte Carlo Tree Search, MCTS, Decoupled Upper Confidence Bound for Trees, DUCT, Inverse Reinforcement Learning, IRL, Hyperparameter Optimization},
     pagetotal    = {160},
     school       = {Karlsruher Institut für Technologie (KIT)},
-    language     = {english}
+    language     = {english},
+    url          = {https://publikationen.bibliothek.kit.edu/1000164561}
 }
 
 @inproceedings{Kurzer2022,
