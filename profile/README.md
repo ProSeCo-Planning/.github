@@ -21,7 +21,6 @@ Please refer to the respective publication if you are using it for your work. Th
     language     = {english},
     url          = {https://publikationen.bibliothek.kit.edu/1000164561}
 }
-
 @inproceedings{Kurzer2022,
 	title        = {Learning Reward Models for Cooperative Trajectory Planning with Inverse Reinforcement Learning and Monte Carlo Tree Search},
 	author       = {Kurzer, Karl and Bitzer, Matthias and Zöllner, J. Marius},
