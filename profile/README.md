@@ -14,6 +14,17 @@ ProSeCo Planning is system independent due to Docker. To get started with the pr
 ## Citation
 Please refer to the respective publication if you are using it for your work. Thank you very much 🙂!
 ```bibtex
+@inbook{Kurzer2024,
+	title        = {Implicit Cooperative Trajectory Planning with Learned Rewards Under Uncertainty},
+	author       = {Kurzer, Karl and Stegmaier, Philipp and Polley, Nikolai and Z{\"o}llner, J. Marius},
+	year         = 2024,
+	booktitle    = {Cooperatively Interacting Vehicles: Methods and Effects of Automated Cooperation in Traffic},
+	publisher    = {Springer International Publishing},
+	pages        = {413--457},
+	doi          = {10.1007/978-3-031-60494-2_14},
+	url          = {https://doi.org/10.1007/978-3-031-60494-2_14},
+	editor       = {Stiller, Christoph and Althoff, Matthias and Burger, Christoph and Deml, Barbara and Eckstein, Lutz and Flemisch, Frank}
+}
 @phdthesis{Kurzer2023,
 	title        = {Implicit Cooperative Decision-Making for Automated Vehicles},
 	author       = {Kurzer, Karl},
